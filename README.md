@@ -1,6 +1,5 @@
 <h1 align="left">Всем привет я не толстый</h1></br>
 <p align="left">tg: <a href="https://t.me/axetuz">https://t.me/axetuz</a></p></br>
-<p align="left">ds: <a href="https://discord.gg/TREYW6qFBn">https://discord.gg/TREYW6qFBn</a></p></br>
 <p align="left">about me: <a href="https://axetuz.ru">https://axetuz.ru</a></p></br>
 
 <h1> </h1>
