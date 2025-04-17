@@ -1,4 +1,6 @@
 <h1 align="left">Всем привет я не толстый</h1></br>
+
+<p align="left">Okay, im learning GO now</p>
 <p align="left">tg: <a href="https://t.me/axetuz">https://t.me/axetuz</a></p>
 <p align="left">about me: <a href="https://axetuz.ru">https://axetuz.ru</a></p>
 
