@@ -5,7 +5,7 @@
 <p align="left">about me: <a href="https://axetuz.ru">https://axetuz.ru</a></p>
 
 ## 
-[![ ](https://skillicons.dev/icons?i=ubuntu,vscode,bash,git,npm,javascript,typescript,tailwind,nuxt,vue,cloudflare,discord,nginx,prometheus,docker,photoshop,premiere&theme=dark&perline=5)](https://skillicons.dev)
+[![ ](https://skillicons.dev/icons?i=ubuntu,vscode,bash,git,npm,javascript,typescript,tailwind,nuxt,vue,cloudflare,discord,nginx,docker,photoshop,premiere&theme=dark&perline=5)](https://skillicons.dev)
 ## 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axetuz&show_icons=true&locale=en" alt="axetuz" /></p>
