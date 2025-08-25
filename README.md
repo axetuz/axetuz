@@ -10,4 +10,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axetuz&show_icons=true&locale=en" alt="axetuz" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axetuz&label=Profile%20views&color=0e75b6&style=flat" alt="axetuz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axetuz&label=Profile%20views&color=0e75b6&style=flat" alt="axetuz" /> <img src="https://wakatime.com/badge/user/91b960d3-a4c5-4516-b77d-12d6e5282d96/project/ca06233d-4053-4bc9-a4e6-a72831d18da3.svg" /></p>
