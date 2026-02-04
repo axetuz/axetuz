@@ -1,6 +1,6 @@
 <h1 align="left">Hiii!</h1></br>
 <p align="left">TypeScript & Golang & Ubuntu my beloved</p></br>
-<p align="left">Okay, I suck while learning Go </br> TG: <a href="https://t.me/axetuz">https://t.me/axetuz</a> </br> About me: <a href="https://axetuz.zip">https://axetuz.ru</a></p>
+<p align="left">Okay, I suck while learning Go </br> TG: <a href="https://t.me/axetuz">https://t.me/axetuz</a> </br> About me: <a href="https://axetuz.zip">https://axetuz.zip</a></p>
 
 ### My skills
 [![ ](https://skillicons.dev/icons?i=bash,git,npm,bun,javascript,typescript,go,py,tailwind,mongo,redis,nuxt,vue,cloudflare,nginx,docker&theme=dark)](https://skillicons.dev)
